@@ -1,0 +1,3 @@
+[submodule "src/kmvae/optimus/Optimus"]
+	path = src/kmvae/optimus/Optimus
+	url = https://github.com/ChunyuanLI/Optimus

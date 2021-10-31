@@ -1,0 +1,28 @@
+name: knowledge-mvae
+channels:
+  - huggingface
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - flake8
+  - flake8-docstrings
+  - pytest
+  - pytorch
+  - cudatoolkit=11.1
+  - torchvision
+  - torchaudio
+  - tensorboard
+  - transformers
+  - datasets
+  - networkx
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - notebook
+  - ipykernel
+  - boto3
+  - tqdm
+  - nltk
